@@ -52,14 +52,14 @@ Pada implementasi P2, Model belum digunakan karena akses dan pengelolaan basis d
 - **Hasil Uji Ulang:** URL berhasil ditangkap oleh server, diarahkan ke rute yang benar oleh Router, berhasil mengakses method di Controller Home, dan menampilkan View ke browser tanpa memicu pesan error 404.
 
 ## 8. Bukti Tangkapan Layar
-### Gambar 1. Hasil Pengujian Halaman Utama
-![Gambar 1 - Halaman Utama](dokumentasi/gambar1.png)
+### Gambar 1.
+![Gambar 1 -](dokumentasi/gambar1.png)
 
-### Gambar 2. Hasil Pengujian Custom Route
-![Gambar 2 - Custom Route](dokumentasi/gambar2.png)
+### Gambar 2.
+![Gambar 2 -](dokumentasi/gambar2.png)
 
-### Gambar 3. Hasil Pengujian Route Info
-![Gambar 2 - Custom Route](dokumentasi/gambar3.png)
+### Gambar 3.
+![Gambar 2 -](dokumentasi/gambar3.png)
 
 ## 9. Kesimpulan P2
 Dari praktikum ini, kerangka kerja MVC dasar yang dibangun sudah dapat menerima *request*, melakukan proses *routing* untuk menerjemahkan URL menjadi perintah spesifik, memanggil *Controller* beserta method dan parameternya, serta memuat antarmuka pengguna secara dinamis melalui *View*. Fitur baru yang akan ditambahkan pada implementasi P3 adalah layer *Model*, yang nantinya akan melengkapi keseluruhan arsitektur agar aplikasi ini dapat terhubung ke dalam pengelolaan basis data.
