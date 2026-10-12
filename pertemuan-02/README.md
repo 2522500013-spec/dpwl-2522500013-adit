@@ -1,5 +1,4 @@
 # Pertemuan 02
-
 ## 1. Tujuan Praktikum
 Tujuan praktikum P2 ini adalah untuk membuat dan memahami dasar-dasar arsitektur Model-View-Controller (MVC) menggunakan PHP asli (native) tanpa framework[cite: 4, 5]. Melalui praktikum ini, saya belajar bagaimana alur sebuah *request* ditangani oleh *front controller*, dipetakan oleh *router*, dan diproses oleh *controller* sebelum akhirnya ditampilkan ke layar melalui *view*[cite: 4, 5].
 
