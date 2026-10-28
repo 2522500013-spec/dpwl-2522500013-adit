@@ -1,6 +1,6 @@
 # pertemuan-06
 
-# pertem### Gambar 1. 
+## Gambar 1. 
 ![Gambar 1](dokumentasi/1.png)
 
 ### Gambar 2. 
