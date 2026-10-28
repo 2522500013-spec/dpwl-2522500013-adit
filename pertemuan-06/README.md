@@ -1,7 +1,7 @@
 # pertemuan-06
-# pertem### Gambar 1. 
-![Gambar 1](dokumentasi/1.png)
 
+# Gambar 1. 
+![Gambar 1](dokumentasi/1.png)
 ### Gambar 2. 
 ![Gambar 2](dokumentasi/2.png)
 ### Gambar 3. 
